@@ -18,3 +18,8 @@ Implement `Bulls and cows` game so the user can run and play it using command li
 Computer makes `1234`, user prints `1345`. The result is one `bull` (guessed
 digit `1` is on it's place) and 2 `cows` (digits `3` and `4` are present but on
 wrong places).
+
+for Run programm:
+
+1. copy files to IDE,
+2. in Terminal run command: node src/app.js
